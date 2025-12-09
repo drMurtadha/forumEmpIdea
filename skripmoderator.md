@@ -20,6 +20,16 @@ Izinkan saya memperkenalkan panelis luar biasa kita:
 - Assoc. Prof. Dr. Ajune Wanis Ismail, pakar teknologi yang memenangi pingat.  
 - Ts. Dr. Nur Haliza Abd Wahab, pemenang pingat dengan impak besar.  
 
+*Mohon setiap panel semak info utk moderator baca nanti @tambah mana2 info berkaitan 😊*
+
+Panel intro :
+
+*Dr. Ahmad Najmi Amerhaider Nuar,* penerima Anugerah Gold Medal Award, Inatex 2025. Selain berkhidmat sebagai tenaga pengajar, Dr. Ahmad Najmi turut merupakan Pengarah bersama NexScholar Sdn. Bhd., syarikat hiliran rasmi UTM yang berteraskan teknologi AI dan Analitik Data Raya. Bidang kepakaran beliau adalah berkaitan System development, AI application dan Information Systems
+
+*Prof. Madya Dr. Ajune Wanis Ismail*, penerima Anugerah Bronze Medal Award, Inatex 2025. Bidang kepakaran adalah Mixed/Augmented Reality technology. Antara kejayaan PM Dr. Ajune ialah pembangunan projek D.I.A.N.A., iaitu sebuah projek yang menggunakan teknologi hologram dan Augmented Reality (AR).
+
+*Ts. Dr. Nur Haliza Abd Wahab*, penerima Anugerah Bronze Medal Award, Inatex 2025. Merupakan Ketua Research Group, Pervasive Computing Research Group, Fakulti Komputeran. Bidang kepakaran beliau adalah dalam bidang Blockchain, Internet Kebendaan (IoT), Penentududukan Dalaman, Protokol Internet versi 6 (IPv6) dan Realiti Terimbuh, meliputi aspek teori, reka bentuk serta pelaksanaan.
+
 Mari beri tepukan gemuruh untuk mereka! Siapa di sini yang pernah terfikir untuk inovasi sendiri? (Tunggu sekejap untuk respons retorik.) Baiklah, tanpa lengah, kita mulakan **Pusingan 1: Pengenalan Inovasi & Impak** – di mana kita akan dengar bagaimana idea mereka menyelesaikan masalah sebenar."
 
 **[2:20 PM – Pusingan 1: Pengenalan Inovasi & Impak (15 minit)]**  
