@@ -3,6 +3,8 @@
 Berikut adalah cadangan struktur penuh untuk anda sebagai Moderator bagi **FC Innovation Talk: Empowerering Ideas** pada 9 Disember 2025.  
 Total masa acara: 60 minit (2:15 PM – 3:15 PM)
 
+## [Skrip moderator](skripmoderator.md)
+
 ### Struktur Keseluruhan
 - 2:15 – 2:20 PM → Pembukaan & perkenalan panelis (5 minit) – anda  
 - 2:20 – 3:05 PM → 3 Pusingan Utama (45 minit)  
