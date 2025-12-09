@@ -63,3 +63,68 @@ Sebelum FAQ
 “Kita dah sampai ke penghujung pusingan ketiga. Sekarang kita buka lantai – 10 minit terakhir untuk anda semua bertanya terus kepada panel kita!”
 
 Semoga acara berjalan lancar dan penuh inspirasi! Kalau perlukan versi PowerPoint timer atau senarai soalan dalam slaid berasingan, beritahu saya ya. Anda pasti akan jadi moderator yang sangat mantap! 🚀
+
+---
+Here is the full suggested structure for you as the Moderator of the **FC Innovation Talk: Empowering Ideas** on December 9, 2025.  
+Total event duration: 60 minutes (2:15 PM – 3:15 PM)
+
+### Overall Structure
+- 2:15 – 2:20 PM → Opening & panelist introductions (5 minutes) – by you  
+- 2:20 – 3:05 PM → 3 Main Rounds (45 minutes)  
+- 3:05 – 3:15 PM → Audience FAQ session (10 minutes)  
+- 3:15 PM → Closing & group photo
+
+### Suggested 3 Rounds + Detailed Questions
+
+#### Round 1: Introduction to Innovations & Impact (15 minutes)  
+Focus: What they won at INATEX 2025 & why the idea matters  
+Response time per panelist: maximum 3–3.5 minutes
+
+Questions for all panelists (you can ask one by one in order):  
+1. Could [panelist's name] briefly share the project/innovation that won a medal at the recent INATEX 2025, and what real-world problem this innovation aims to solve?
+
+(Suggested order: Dr. Ahmad Najmi → Assoc. Prof. Dr. Ajune Wanis → Ts. Dr. Nur Haliza)
+
+#### Round 2: Challenges & Personal Experiences (15 minutes)  
+Focus: The real journey, mistakes, and lessons learned  
+Response time per panelist: maximum 4 minutes
+
+Specific questions for each panelist (call them by name one by one):
+
+1. Dr. Ahmad Najmi – “What was the biggest challenge you faced in taking this innovation from a lab idea to an international medal-winning stage, and how did you overcome it?”
+
+2. Assoc. Prof. Dr. Ajune Wanis – “As a female researcher in technology, what unique obstacles have you encountered, and what advice do you have for young female researchers watching today?”
+
+3. Ts. Dr. Nur Haliza – “Many master's and PhD students fear their innovations are 'too small' to patent or commercialize. What's the biggest lesson from your INATEX project about the value of an innovation?”
+
+#### Round 3: Future Outlook & Suggestions for UTM (15 minutes)  
+Focus: Scaling up, industry collaboration, advice for students/staff  
+Response time per panelist: maximum 4–4.5 minutes
+
+Questions (you can ask in rotation or open to all):
+
+1. “If given the opportunity and sufficient funding, what are the next steps you'd like to see for your innovation in the next 2–3 years?”  
+   (Can start with Ts. Dr. Nur Haliza → Dr. Ahmad Najmi → Assoc. Prof. Dr. Ajune)
+
+2. Final question (open to all three panelists):  
+   “What's one key suggestion you'd like to share with students, academic staff, or FC/UTM management to help more researchers win internationally and create societal impact?”
+
+#### Audience FAQ Session (3:05 – 3:15 PM) – 10 minutes  
+You can use a roving microphone or tools like Google Forms/Slido for hybrid setups.  
+Suggested handling:  
+- Accept a maximum of 4–5 questions (pick the most upvoted if using Slido)  
+- If a question is for a specific panelist, tag their name  
+- Repeat the question aloud for everyone to hear, then hand it over to the relevant panelist (1–1.5 minutes per answer)
+
+### Sample Short Script for Opening & Transitions (for you)
+
+Opening (2:15 PM)  
+“Good afternoon and greetings of innovation! … Today we're gathered to celebrate three medal winners from INATEX 2025… We'll run this forum in 3 rounds and end with an open Q&A session.”
+
+Transitions between rounds  
+“That was an inspiring first round. Now let's move to the second round – I want to hear the behind-the-scenes stories, the challenges they faced…”
+
+Before FAQ  
+“We've reached the end of the third round. Now let's open the floor – the last 10 minutes for you all to ask the panel directly!”
+
+May the event run smoothly and full of inspiration! If you need a PowerPoint timer version or a separate slide list of questions, let me know. You're sure to be an excellent moderator! 🚀
